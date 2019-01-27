@@ -105,3 +105,9 @@ venv.bak/
 
 # tensorboard logs
 logs/
+
+# ignore saved models folder
+models/
+
+# ignore data folder
+data/
